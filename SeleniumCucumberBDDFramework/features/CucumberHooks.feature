@@ -12,5 +12,4 @@ Scenario: Youtube channel name validations
 Scenario: Channel Validations
 	Given Open Chrome browser with URL
 	When Search selenium tutorial
-	And Click on channel name
-	Then Validate channel name
+	
